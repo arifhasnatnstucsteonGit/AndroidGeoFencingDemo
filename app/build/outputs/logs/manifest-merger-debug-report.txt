@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\b1d1fa95f5691123740aa9329ad52180\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\b6736cdc51cdf5b820315115bcb90189\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\82f56215c4d496103703974817880c2c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\a345895b6bcbe90bf41669587395384e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\d7ac47d758ea9a7b386a62630c94cbb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\9c6bd7c1030f996c8a4f3b08163049f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\0b852f592dd99733f30389f071650875\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\915cc474d68c63bdfae0e025ed8b0dad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\b7ae4a9bf030d8d1c6a089ec1a698742\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\86e37dfd5b1102773075127f4eeb1c4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\d6e7df0561c2d4cd282b56584a501eae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\f88b996b53b9116d52fba09e844a842d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\ff983b50885f299ad86730663e16602d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\9b7d3d8f2ecc4c67353663b2a8118876\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\c026e6f2be0b7c40e66e6eba1ac25fac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\bd0283eb0591d745eb159d86b9d3730f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\a7551327e1ffb75d3ee6a6e54c97af4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\76afbded61224d44e1702977ed261272\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\d412810cab0dd08b369c37fdfb3ae42e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\fb3c0765600ca8f824cca100a58e925a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\7011a7c9558af983371a34c15d070c3b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a79099f9174cbc5271048784ba6ebda6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fd8b5c7e4bcdf6eb0fb36c757a27f7df\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\b4c8a7507bdc63f007fd01318d80d459\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\17aaa4c53741cc04d5cc07b31cb67cc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\aec476d55efc9969f58764c02658463c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1ae4cb98608c33722c5491fb89cf3f03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\5177fd65f01f579223c9e3f62ff9c80b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b5db31fb8387cee34624188db040fe14\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\25bed42fe5531aa30a85d7d38af6b778\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\b1d1fa95f5691123740aa9329ad52180\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\b1d1fa95f5691123740aa9329ad52180\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\82f56215c4d496103703974817880c2c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\82f56215c4d496103703974817880c2c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\d412810cab0dd08b369c37fdfb3ae42e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\d412810cab0dd08b369c37fdfb3ae42e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fd8b5c7e4bcdf6eb0fb36c757a27f7df\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fd8b5c7e4bcdf6eb0fb36c757a27f7df\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\d412810cab0dd08b369c37fdfb3ae42e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.arifhasnat.androidgeofencingdemo.MainActivity
+ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\b1d1fa95f5691123740aa9329ad52180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\b1d1fa95f5691123740aa9329ad52180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\b6736cdc51cdf5b820315115bcb90189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\b6736cdc51cdf5b820315115bcb90189\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\82f56215c4d496103703974817880c2c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\82f56215c4d496103703974817880c2c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\a345895b6bcbe90bf41669587395384e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\a345895b6bcbe90bf41669587395384e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\d7ac47d758ea9a7b386a62630c94cbb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\d7ac47d758ea9a7b386a62630c94cbb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\9c6bd7c1030f996c8a4f3b08163049f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\9c6bd7c1030f996c8a4f3b08163049f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\0b852f592dd99733f30389f071650875\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\0b852f592dd99733f30389f071650875\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\915cc474d68c63bdfae0e025ed8b0dad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\915cc474d68c63bdfae0e025ed8b0dad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\b7ae4a9bf030d8d1c6a089ec1a698742\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\b7ae4a9bf030d8d1c6a089ec1a698742\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\86e37dfd5b1102773075127f4eeb1c4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\86e37dfd5b1102773075127f4eeb1c4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\d6e7df0561c2d4cd282b56584a501eae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\d6e7df0561c2d4cd282b56584a501eae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\f88b996b53b9116d52fba09e844a842d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\f88b996b53b9116d52fba09e844a842d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\ff983b50885f299ad86730663e16602d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\ff983b50885f299ad86730663e16602d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\9b7d3d8f2ecc4c67353663b2a8118876\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\9b7d3d8f2ecc4c67353663b2a8118876\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\c026e6f2be0b7c40e66e6eba1ac25fac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\c026e6f2be0b7c40e66e6eba1ac25fac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\bd0283eb0591d745eb159d86b9d3730f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\bd0283eb0591d745eb159d86b9d3730f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\a7551327e1ffb75d3ee6a6e54c97af4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\a7551327e1ffb75d3ee6a6e54c97af4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\76afbded61224d44e1702977ed261272\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\76afbded61224d44e1702977ed261272\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\d412810cab0dd08b369c37fdfb3ae42e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\d412810cab0dd08b369c37fdfb3ae42e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\fb3c0765600ca8f824cca100a58e925a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\fb3c0765600ca8f824cca100a58e925a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\7011a7c9558af983371a34c15d070c3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\7011a7c9558af983371a34c15d070c3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a79099f9174cbc5271048784ba6ebda6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a79099f9174cbc5271048784ba6ebda6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fd8b5c7e4bcdf6eb0fb36c757a27f7df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fd8b5c7e4bcdf6eb0fb36c757a27f7df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\b4c8a7507bdc63f007fd01318d80d459\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\b4c8a7507bdc63f007fd01318d80d459\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\17aaa4c53741cc04d5cc07b31cb67cc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\17aaa4c53741cc04d5cc07b31cb67cc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\aec476d55efc9969f58764c02658463c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\aec476d55efc9969f58764c02658463c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1ae4cb98608c33722c5491fb89cf3f03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1ae4cb98608c33722c5491fb89cf3f03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\5177fd65f01f579223c9e3f62ff9c80b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\5177fd65f01f579223c9e3f62ff9c80b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b5db31fb8387cee34624188db040fe14\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b5db31fb8387cee34624188db040fe14\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\25bed42fe5531aa30a85d7d38af6b778\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ADN Digital\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\25bed42fe5531aa30a85d7d38af6b778\AndroidManifest.xml:20:5-44
+INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Learning\ANDROID\AndroidGeoFencingDemo\app\src\main\AndroidManifest.xml
